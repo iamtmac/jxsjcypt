@@ -1,0 +1,7 @@
+{
+  "name": "嘉兴市数据产业公共服务平台",
+  "description": "嘉兴市数据要素可信流通与产业服务门户，提供数据登记、数据实验室、供需市场等全方位服务。",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
